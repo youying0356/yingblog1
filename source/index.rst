@@ -10,6 +10,9 @@ Welcome to yingblog's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   beginning/index
+       base/index
+       tool/index
 
 
 Indices and tables
